@@ -151,12 +151,6 @@
 .icon-3AqZ2e, [src*="https://cdn.discordapp.com/avatars/"] {
     background: #f386bd;
 }
-
-/* Background */
-div#app-mount.appMount-2yBXZl {
-    background-image: linear-gradient(to left, #4BB4E0, #58B2DB, #CCB0CF, #DAA3C0, #DD9FBD, #4BB4E0, #58B2DB, #CCB0CF 104.2%);
-    animation: gradient-border 8s linear infinite;
-    background-size: 400% 100%;
 }
 @keyframes gradient-border {
 from {
